@@ -1,0 +1,6 @@
+Target 
+lagnuage: C#, Node, Mysql, Angular, Ionic, Express, MangoDb
+Theory: Data structure  & algo, System design.
+Version Control: Git & Bidbucket
+
+
